@@ -11,7 +11,7 @@ I'm Prakhar Kashyap, a passionate Engineering Student with a love for open-sourc
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **Python, C programming, Internet of things, UI/UX and bacics of linux.**  
+- 🌱 I’m currently learning **Python, C programming, Internet of things, UI/UX and basics of linux.**  
 - 👯 I’m looking to collaborate on **AI/ML, open-source contributions, UI/UX and IOT projects.**  
 - 🔭 I’m working on **an AI enabled app for upskilling and learning for students.** 
 - 💬 Ask me about **Python, IOT projects, UI/UX designing**  
