@@ -22,7 +22,7 @@ I'm Prakhar Kashyap, a passionate Engineering Student with a love for open-sourc
 ## 🛠️ Tech Stack
 
 ![Languages](https://img.shields.io/badge/-Languages-blue)  
-Python and C programming
+Python, C/C++, GO-lang
 
 <!---
 ![Frameworks](https://img.shields.io/badge/-Frameworks-green)  
